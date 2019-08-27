@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tilbudsviser/static/css/main.70147669.chunk.css",
+    "main.js": "/tilbudsviser/static/js/main.bae8f55e.chunk.js",
+    "main.js.map": "/tilbudsviser/static/js/main.bae8f55e.chunk.js.map",
+    "runtime~main.js": "/tilbudsviser/static/js/runtime~main.2d601f98.js",
+    "runtime~main.js.map": "/tilbudsviser/static/js/runtime~main.2d601f98.js.map",
+    "static/js/2.a652456a.chunk.js": "/tilbudsviser/static/js/2.a652456a.chunk.js",
+    "static/js/2.a652456a.chunk.js.map": "/tilbudsviser/static/js/2.a652456a.chunk.js.map",
+    "index.html": "/tilbudsviser/index.html",
+    "precache-manifest.610819b8ffa22b3a7c90a6d79567ef4c.js": "/tilbudsviser/precache-manifest.610819b8ffa22b3a7c90a6d79567ef4c.js",
+    "service-worker.js": "/tilbudsviser/service-worker.js",
+    "static/css/main.70147669.chunk.css.map": "/tilbudsviser/static/css/main.70147669.chunk.css.map"
+  }
+}
