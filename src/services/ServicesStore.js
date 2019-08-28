@@ -283,7 +283,67 @@ export const serviceList = [
       [Desires.kommeMegRundtHjemme]: 0.8,
       [Desires.handleMat]: 0.3,
       [Desires.kommeMegRundtUtenforHjemmet]: 0.5,
-      [Desires.vaskeMeg]: 0.4
+      [Desires.vaskeMeg]: 0.4,
+      [Desires.kleMeg]: 0.2
+    }
+  },
+  {
+    name: "Rask psykisk helsehjelp",
+    description:
+      "Ring oss på vår kontakttelefon, hvis du tenker at Rask psykisk helsehjelp er aktuelt for deg. Da vil vi vurdere om du er i målgruppen for tilbudet, eller om vi kan gi deg råd og assistanse til å finne den hjelpen du trenger.",
+    limitationRatings: {
+      [Limitations.bevege]: 0.1,
+      [Limitations.angst]: 0.9,
+      [Limitations.nedstemt]: 0.6
+    },
+    desireRatings: {
+      [Desires.deltaISamfunn]: 0.3,
+      [Desires.hobby]: 0.1,
+      [Desires.sosialisere]: 0.2
+    }
+  },
+  {
+    name: "Vaffeltirsdag",
+    description:
+      "Vaffeltirsdag er et åpent, uformelt og hyggelig treffpunkt for frivillige og andre som er tilknyttet Stovner Frivilligsentral. Kom gjerne innom for å hilse på frivillige, deltakere og ansatte ved sentralen, og få mer informasjon om mulighetene for frivillig arbeid.",
+    limitationRatings: {
+      [Limitations.nedstemt]: 0.1,
+      [Limitations.angst]: 0.1
+    },
+    desireRatings: {
+      [Desires.lageMat]: 0.2,
+      [Desires.deltaISamfunn]: 0.6,
+      [Desires.hobby]: 0.4,
+      [Desires.sosialisere]: 0.8
+    }
+  },
+  {
+    name: "Hobbygruppe",
+    description:
+      "Etter vaffelserveringen på tirsdager møtes frivillige og deltakere av hobbygruppa kl. 13 for å lage vakre ting sammen. Frem mot høytider lager hobbygruppa gaver som gis til de som får besøk av våre frivillige og deltakere på arrangementer som Smak av norsk jul på Frivilligsentralen.",
+    limitationRatings: {
+      [Limitations.nedstemt]: 0.1,
+      [Limitations.angst]: 0.1
+    },
+    desireRatings: {
+      [Desires.deltaISamfunn]: 0.7,
+      [Desires.hobby]: 0.7,
+      [Desires.sosialisere]: 0.8
+    }
+  },
+  {
+    name: "Turgruppe",
+    description:
+      "Annenhver onsdag møtes en turglad gjeng for å besøke mange av Oslos severdigheter. Alle turer starter fra billettautomaten på Stovner T-bane kl. 10.30 hvis ikke annet er oppgitt i programmet. Turgruppa ledes av en av våre entusiastiske frivillige og er åpen for alle. Enkelte turer krever påmelding.",
+    limitationRatings: {
+      [Limitations.nedstemt]: 0.1,
+      [Limitations.angst]: 0.1
+    },
+    desireRatings: {
+      [Desires.deltaISamfunn]: 0.6,
+      [Desires.hobby]: 0.6,
+      [Desires.sosialisere]: 0.8,
+      [Desires.fysiskAktivitet]: 0.9
     }
   },
   {
