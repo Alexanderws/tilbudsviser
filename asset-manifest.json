@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tilbudsviser/static/css/main.70147669.chunk.css",
-    "main.js": "/tilbudsviser/static/js/main.bae8f55e.chunk.js",
-    "main.js.map": "/tilbudsviser/static/js/main.bae8f55e.chunk.js.map",
+    "main.js": "/tilbudsviser/static/js/main.59d94b2b.chunk.js",
+    "main.js.map": "/tilbudsviser/static/js/main.59d94b2b.chunk.js.map",
     "runtime~main.js": "/tilbudsviser/static/js/runtime~main.2d601f98.js",
     "runtime~main.js.map": "/tilbudsviser/static/js/runtime~main.2d601f98.js.map",
     "static/js/2.a652456a.chunk.js": "/tilbudsviser/static/js/2.a652456a.chunk.js",
     "static/js/2.a652456a.chunk.js.map": "/tilbudsviser/static/js/2.a652456a.chunk.js.map",
     "index.html": "/tilbudsviser/index.html",
-    "precache-manifest.da9f02a67f8064b0cfcc6b3ab99e7d20.js": "/tilbudsviser/precache-manifest.da9f02a67f8064b0cfcc6b3ab99e7d20.js",
+    "precache-manifest.c25889b33b73d0530dc58a233a02832a.js": "/tilbudsviser/precache-manifest.c25889b33b73d0530dc58a233a02832a.js",
     "service-worker.js": "/tilbudsviser/service-worker.js",
     "static/css/main.70147669.chunk.css.map": "/tilbudsviser/static/css/main.70147669.chunk.css.map"
   }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea1f2ba630bdee8528bdc92d812b3bcd",
+    "revision": "0a960cec4791461afcda34492cefeb4e",
     "url": "/tilbudsviser/index.html"
   },
   {
-    "revision": "f5bacd930eda5d51440d",
+    "revision": "d4421d5f04cb3b7396de",
     "url": "/tilbudsviser/static/css/main.70147669.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tilbudsviser/static/js/2.a652456a.chunk.js"
   },
   {
-    "revision": "f5bacd930eda5d51440d",
-    "url": "/tilbudsviser/static/js/main.bae8f55e.chunk.js"
+    "revision": "d4421d5f04cb3b7396de",
+    "url": "/tilbudsviser/static/js/main.59d94b2b.chunk.js"
   },
   {
     "revision": "0944958e33ca249aae82",
